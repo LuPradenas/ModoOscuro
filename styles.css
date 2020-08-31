@@ -1,0 +1,48 @@
+img {
+    height: 50px;
+}
+
+.icon {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor {
+    width: 600px;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    margin: 0;
+    color: #e91e63;
+}
+
+p {
+    font-size: 37px;
+    margin: 0;
+}
+
+.oscuro {
+    background-color: black;
+    color: white;
+}
+
+.nomostrar {
+    display: none;
+}
+
+.mostrar {
+    display: flex;
+}
